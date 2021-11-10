@@ -1,2 +1,4 @@
-Boba is love, boba is life !
-Triple the love is triple the boba !
+- Boba is love !
+- Boba is life ! 
+- x3 the boba...
+- is x3 your life !

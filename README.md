@@ -14,7 +14,7 @@
 <img width="2%" alt="current" src="https://cdn-icons-png.flaticon.com/512/302/302829.png"/> Vancouver, BC
 
 #### These are my clones:
-<img align="left" width="5%" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488426.png?token=exp=1649402271~hmac=25d6db0f9302dd6d0aa377078e673db7">
+[<img align="left" width="5%" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488426.png?token=exp=1649402271~hmac=25d6db0f9302dd6d0aa377078e673db7"/>][other github]
 <!-- [<img align="left" width="10%" alt="phganh | LinkedIn" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488326.png?token=exp=1649400616~hmac=1107651b90763e2cef997f60650dcaca" />][linkedin]
 [<img align="left" width="10%" alt="phganh | Github" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488426.png?token=exp=1649400603~hmac=3a39753e4ae011179c01835d1288ad08" />][other github]
 <img width="10%" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721688.png?token=exp=1649400964~hmac=166cdb74f3ddda359ce8cf433a421faa" /> -->

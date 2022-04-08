@@ -3,13 +3,13 @@
 
 <!-- <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="20%" />
 <br></br> -->
-<img width="5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206286.png"/>&nbsp;
+<img width="6%" src="https://cdn-icons-png.flaticon.com/512/7206/7206286.png"/>&nbsp;
 I'm a Junior Full-Stack Developer.
 <br></br>
-<img width="5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206282.png">&nbsp;
+<img width="6%" src="https://cdn-icons-png.flaticon.com/512/7206/7206282.png">&nbsp;
 I remember I really enjoy every time I experience with websites that have simple design but extremely elegant and convenient to interacting with.
 <br></br>
-<img width="5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206291.png">&nbsp;
+<img width="6%" src="https://cdn-icons-png.flaticon.com/512/7206/7206291.png">&nbsp;
 So I decide I want to get into the career that I can build those type of websites for other users to experience with.
 
 

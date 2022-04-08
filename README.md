@@ -1,4 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, you have reached Ashley's Github
+### Hi <img width="8%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, you have reached Ashley's Github <img width="8%" src="https://cdn-icons-png.flaticon.com/512/2907/2907253.png"/>
 <img width="10%" src="https://cdn-icons.flaticon.com/png/512/5111/premium/5111043.png?token=exp=1649401682~hmac=6c9f7452228a4ae20cc5a061ea174b71"/>
 <img width="10%" src="https://cdn-icons.flaticon.com/png/512/5119/premium/5119097.png?token=exp=1649401682~hmac=1896522f34e9052139c77dc7cd5247d4"/>
 <img width="10%" src="https://cdn-icons.flaticon.com/png/512/5119/premium/5119043.png?token=exp=1649401682~hmac=86948c847edbc33b23577a146c893d7c"/>

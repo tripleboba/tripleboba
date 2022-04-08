@@ -29,7 +29,7 @@ same person: [@phganh](https://github.com/phganh) 🧬
 
 
 [linkedin]: https://linkedin.com/in/phganh
-[resume] https://bit.ly/3NS3fXs
+[resume]: https://bit.ly/3NS3fXs
 [portfolio]: https://phganh.com
 [other github]: https://github.com/phganh
 

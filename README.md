@@ -11,9 +11,8 @@
 [<img align="left" width="4.2%" src="https://cdn-icons.flaticon.com/png/512/896/premium/896846.png?token=exp=1649402830~hmac=727220b2c819e4e102932967b1882129" />][resume]
 [<img align="left" width="5%" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721688.png?token=exp=1649402719~hmac=3f97371cf599ee192d6187774e193aa5"/>][portfolio]
 [<img align="left" width="5%" alt="PhgAnh | Github" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488426.png?token=exp=1649402271~hmac=25d6db0f9302dd6d0aa377078e673db7"/>][other github]
-<br><br>
-
-
+<br></br><br></br>
+----
 ### Languages and Tools <img width="3%" src="https://cdn-icons-png.flaticon.com/512/7206/7206289.png"/>:
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripleboba&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="tripleboba" />
 <div>

@@ -11,9 +11,9 @@
 📚&nbsp; Lighthouse Labs Bootcamp - web development<br>
 🎓&nbsp; York University - information technology<br>
 🎓&nbsp; Seattle Central College - computer science<br>
-<img width="2%" alt="current" src="https://cdn-icons-png.flaticon.com/512/302/302829.png"/> Vancouver, BC
+<img width="5%" alt="current" src="https://cdn-icons-png.flaticon.com/512/302/302829.png"/> Vancouver, BC
 
-#### Another me here <img width="2%" src="https://cdn-icons-png.flaticon.com/512/4341/4341149.png"/>:
+#### Another me here <img width="5%" src="https://cdn-icons-png.flaticon.com/512/4341/4341149.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488326.png?token=exp=1649402666~hmac=09cc9b602a1880c3984806ba68c35eee"/>][linkedin]
 [<img align="left" width="4.4%" src="https://cdn-icons.flaticon.com/png/512/896/premium/896846.png?token=exp=1649402830~hmac=727220b2c819e4e102932967b1882129" />][resume]
 [<img align="left" width="5%" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721688.png?token=exp=1649402719~hmac=3f97371cf599ee192d6187774e193aa5"/>][portfolio]

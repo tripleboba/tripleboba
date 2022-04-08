@@ -13,10 +13,10 @@
 [<img align="left" width="5%" alt="PhgAnh | Github" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488426.png?token=exp=1649402271~hmac=25d6db0f9302dd6d0aa377078e673db7"/>][other github]
 <br><br>
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripleboba&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="tripleboba" />
-<div>
 
 ### Languages and Tools <img width="3%" src="https://cdn-icons-png.flaticon.com/512/7206/7206289.png"/>:
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripleboba&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="tripleboba" />
+<div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> </a>

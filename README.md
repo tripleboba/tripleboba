@@ -1,6 +1,6 @@
 ## Hi <img width="5%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, you have reached <img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019665.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019919.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019787.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019828.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019733.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019978.png" >'s Github 
 
-<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="50%" />
+<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="45%" />
 <div>
 <img width="5.5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206286.png"/>I'm a Junior Full-Stack Developer.<br>
 <img width="5.5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206282.png">I remember I really enjoy every time I experience with websites that have simple design but extremely elegant and convenient to interacting with.<br>
@@ -15,14 +15,13 @@
 
 ### One of my clone for school's projects <img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206272.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | Github" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488426.png?token=exp=1649402271~hmac=25d6db0f9302dd6d0aa377078e673db7"/>][other github]
-
+<br><br>
 
 <p align="center" width="100%">
   <img width="4%" src="https://github.githubassets.com/images/mona-loading-default.gif">
   <br>
   One moment please
 </p>
-
 [linkedin]: https://linkedin.com/in/phganh
 [resume]: https://bit.ly/3NS3fXs
 [portfolio]: https://phganh.com

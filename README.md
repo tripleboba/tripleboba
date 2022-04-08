@@ -1,8 +1,8 @@
-## Hi <img width="5%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, you have reached <img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019665.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019919.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019787.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019828.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019733.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019978.png" >'s Github 
+## Hi <img width="4%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, you have reached <img width="5%" src="https://cdn-icons-png.flaticon.com/512/4019/4019665.png" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/4019/4019919.png" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/4019/4019787.png" ><img width="4%" src="https://cdn-icons-png.flaticon.com/512/4019/4019828.png" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/4019/4019733.png" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/4019/4019978.png" >'s Github 
 
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="49%" />
 <div>
-<img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206286.png"/>I'm a Junior Full-Stack Developer.<br>
+<img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206286.png"/>I'm a Front-End Developer.<br>
 <img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206282.png">I remember I really enjoy every time I experience with websites that have simple design but extremely elegant and convenient to interacting with.<br>
 <img width="3.5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206291.png">So I decide I want to get into the career that I can build those type of websites for other users to experience with.<br>
 </div>
@@ -17,8 +17,9 @@
 
 <p align="center" width="100%">
   <img width="4%" src="https://github.githubassets.com/images/mona-loading-default.gif">
-  <br>
-  One moment please
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=15&duration=3000&color=3E3E3E&center=true&vCenter=true&lines=loading+fun+.+.+.+.+.+;.+.+.+.+.+.+.+.+.+;one+moment+please+.+.+.)](https://git.io/typing-svg)
+    
 </p>
 
 [linkedin]: https://linkedin.com/in/phganh

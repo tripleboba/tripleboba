@@ -7,13 +7,11 @@
 
 
 
-
-
 🐭&nbsp; I'm a Junior Full-Stack Developer <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="50%" /><br>
 📚&nbsp; Lighthouse Labs Bootcamp - web development<br>
 🎓&nbsp; York University - information technology<br>
 🎓&nbsp; Seattle Central College - computer science<br>
-<img width="5%" alt="current" src="https://cdn-icons-png.flaticon.com/512/302/302829.png"/> Vancouver, BC
+<img width="2%" alt="current" src="https://cdn-icons-png.flaticon.com/512/302/302829.png"/> Vancouver, BC
 
 #### These are my clones:
 [<img align="left" width="10%" alt="phganh | LinkedIn" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488326.png?token=exp=1649400616~hmac=1107651b90763e2cef997f60650dcaca" />][linkedin]

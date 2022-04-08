@@ -18,7 +18,7 @@
 <p align="center" width="100%">
   <img width="4%" src="https://github.githubassets.com/images/mona-loading-default.gif">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=15&duration=3000&color=3E3E3E&center=false&vCenter=false&lines=loading+fun+.+.+.+.+.+;.+.+.+.+.+.+.+.+.+;one+moment+please+.+.+.)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=15&duration=3000&color=3E3E3E&center=false&vCenter=true&lines=loading+fun+.+.+.+.+.+;.+.+.+.+.+.+.+.+.+;one+moment+please+.+.+.)
     
 </p>
 

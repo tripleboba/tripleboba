@@ -7,21 +7,17 @@
 <img width="3.5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206291.png">So I decide I want to get into the career that I can build those type of websites for other users to experience with.<br>
 </div>
 
-
 #### You can also find me here <img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206274.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488326.png?token=exp=1649402666~hmac=09cc9b602a1880c3984806ba68c35eee"/>][linkedin]
 [<img align="left" width="4.2%" src="https://cdn-icons.flaticon.com/png/512/896/premium/896846.png?token=exp=1649402830~hmac=727220b2c819e4e102932967b1882129" />][resume]
 [<img align="left" width="5%" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721688.png?token=exp=1649402719~hmac=3f97371cf599ee192d6187774e193aa5"/>][portfolio]
 [<img align="left" width="5%" alt="PhgAnh | Github" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488426.png?token=exp=1649402271~hmac=25d6db0f9302dd6d0aa377078e673db7"/>][other github]
-<br><br>
-<!-- <p align="center" width="100%">
-  <img width="4%" src="https://github.githubassets.com/images/mona-loading-default.gif"></img>
-</p> -->
-<br><br>
+<br>
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripleboba&show_icons=true&locale=en&layout=compact" alt="tripleboba" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripleboba&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="tripleboba" />
 <div>
-<h4>Languages and Tools:</h4>
+
+#### Languages and Tools <img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206289.png"/>:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> </a>
@@ -44,8 +40,12 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="5%"/> </a>
 
 
-
 [linkedin]: https://linkedin.com/in/phganh
 [resume]: https://bit.ly/3NS3fXs
 [portfolio]: https://phganh.com
 [other github]: https://github.com/phganh
+
+<!-- <p align="center" width="100%">
+  <img width="4%" src="https://github.githubassets.com/images/mona-loading-default.gif"></img>
+</p> -->
+<!-- <img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206271.png"/> -->

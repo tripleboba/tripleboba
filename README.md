@@ -4,7 +4,8 @@
 <div>
 <img width="5.5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206286.png"/>I'm a Junior Full-Stack Developer.<br>
 <img width="5.5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206282.png">I remember I really enjoy every time I experience with websites that have simple design but extremely elegant and convenient to interacting with.<br>
-<img width="5.5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206291.png">So I decide I want to get into the career that I can build those type of websites for other users to experience with.<br>
+<img width="5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206291.png">So I decide I want to get into the career that I can build those type of websites for other users to experience with.<br>
+</div>
 
 
 ### You can also find me here <img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206274.png"/>:

@@ -14,16 +14,13 @@
 [<img align="left" width="5%" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721688.png?token=exp=1649402719~hmac=3f97371cf599ee192d6187774e193aa5"/>][portfolio]
 [<img align="left" width="5%" alt="PhgAnh | Github" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488426.png?token=exp=1649402271~hmac=25d6db0f9302dd6d0aa377078e673db7"/>][other github]
 <br><br>
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
   <img width="4%" src="https://github.githubassets.com/images/mona-loading-default.gif"></img>
+</p> -->
+<br><br>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=15&duration=3000&color=3E3E3E&center=true&center=true&center=true&lines=loading+fun+.+.+.+.+.+;.+.+.+.+.+.+.+.+.+;one+moment+please+.+.+.)
-    
-</p>
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripleboba&show_icons=true&locale=en&layout=compact" alt="tripleboba" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripleboba&show_icons=true&locale=en&layout=compact" alt="tripleboba" />
 <div>
-
 <h4>Languages and Tools:</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/> </a>

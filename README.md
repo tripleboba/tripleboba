@@ -12,9 +12,6 @@
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488326.png?token=exp=1649402666~hmac=09cc9b602a1880c3984806ba68c35eee"/>][linkedin]
 [<img align="left" width="4.2%" src="https://cdn-icons.flaticon.com/png/512/896/premium/896846.png?token=exp=1649402830~hmac=727220b2c819e4e102932967b1882129" />][resume]
 [<img align="left" width="5%" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721688.png?token=exp=1649402719~hmac=3f97371cf599ee192d6187774e193aa5"/>][portfolio]
-<br>
-
-#### One of my clone for school's projects <img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206272.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | Github" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488426.png?token=exp=1649402271~hmac=25d6db0f9302dd6d0aa377078e673db7"/>][other github]
 <br><br>
 

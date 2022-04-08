@@ -1,12 +1,12 @@
-### Hi <img width="8%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, you have reached Ashley's Github 
-
-
-<img align="left" width="8%" src="https://cdn-icons-png.flaticon.com/512/4019/4019665.png"/>
+### Hi <img width="5%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, you have reached <img align="left" width="8%" src="https://cdn-icons-png.flaticon.com/512/4019/4019665.png"/>
 <img align="left" width="8%" src="https://cdn-icons-png.flaticon.com/512/4019/4019919.png"/>
 <img align="left" width="8%" src="https://cdn-icons-png.flaticon.com/512/4019/4019787.png"/>
 <img align="left" width="8%" src="https://cdn-icons-png.flaticon.com/512/4019/4019828.png"/>
 <img align="left" width="8%" src="https://cdn-icons-png.flaticon.com/512/4019/4019733.png"/>
-<img align="left" width="8%" src="https://cdn-icons-png.flaticon.com/512/4019/4019978.png"/>
+<img align="left" width="8%" src="https://cdn-icons-png.flaticon.com/512/4019/4019978.png"/>'s Github 
+
+
+
 
 
 

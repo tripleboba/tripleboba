@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="49%" />
 <div>
-<img width="5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206286.png"/>I'm a Front-End Developer.<br>
+<img width="5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206286.png"/>I'm a Full-Stack Developer.<br>
 <img width="5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206282.png">I remember I really enjoy every time I experience with websites that have simple design but extremely elegant and convenient to interacting with.<br>
-<img width="4.5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206291.png">So I decide I want to get into the career that I can build those type of websites for other users to experience with.
+<img width="4.5%" src="https://cdn-icons-png.flaticon.com/512/7206/7206291.png">So I decide to get into the career that I can build those type of websites for other users to experience with.
 
 ### You can also find me here <img width="4%" src="https://cdn-icons-png.flaticon.com/512/7206/7206274.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488326.png?token=exp=1649402666~hmac=09cc9b602a1880c3984806ba68c35eee"/>][linkedin]

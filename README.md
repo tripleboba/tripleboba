@@ -8,7 +8,7 @@
 
 ### You can also find me here <img width="4%" src="./icons/pSearch.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="./icons/linkedin.png"/>][linkedin]
-[<img align="left" width="5%" src="./icons/resume.png" />][resume]
+[<img align="left" width="4.5%" src="./icons/resume.png" />][resume]
 [<img align="left" width="5%" src="./icons/link.png"/>][portfolio]
 [<img align="left" width="5%" alt="PhgAnh | Github" src="./icons/github.png"/>][other github]
 <br></br><br></br>

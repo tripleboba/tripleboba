@@ -1,4 +1,4 @@
-## Hi <img width="4%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, you have reached <img width="5%" src="./icons/a.png" > <img width="5%" src="./icons/s.png"> <img width="5%" src="./icons/h.png"> <img width="5%" src="./icons/l.png"> <img width="5%" src="./icons/e.png"> <img width="5%" src="./icons/y.png">'s Github 
+## Hi <img width="4%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, you have reached <img width="5%" src="./icons/a.png" ><img width="5%" src="./icons/s.png"><img width="5%" src="./icons/h.png"><img width="5%" src="./icons/l.png"><img width="5%" src="./icons/e.png"><img width="5%" src="./icons/y.png">'s Github 
 
 <img align="right" src="./icons/dino.gif" width="49%" />
 <div>

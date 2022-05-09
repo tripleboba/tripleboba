@@ -40,7 +40,7 @@
 
 [linkedin]: https://linkedin.com/in/phganh
 [resume]: https://bit.ly/3NS3fXs
-[portfolio]: https://phganh.com
+[portfolio]: https://phganh.dev
 [other github]: https://github.com/phganh
 
 <!-- <p align="center" width="100%">

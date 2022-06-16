@@ -5,6 +5,7 @@
 <img width="5%" src="./icons/pCheck.png"/>I'm a Full-Stack Dev Grad.<br>
 <img width="5%" src="./icons/pEye.png">I remember I really enjoy every time I experience with websites that have simple design but extremely elegant and convenient to interacting with.<br>
 <img width="4.5%" src="./icons/pLight.png">So I decide to get into the career that I can build those type of websites for other users to experience with.
+</div>
 
 ### You can also find me here <img width="4%" src="./icons/pSearch.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="./icons/linkedin.png"/>][linkedin]

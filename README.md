@@ -11,6 +11,7 @@
 [<img align="left" width="4.5%" src="./icons/resume.png" />][resume]
 [<img align="left" width="5%" src="./icons/link.png"/>][portfolio]
 [<img align="left" width="5%" alt="PhgAnh | Github" src="./icons/github.png"/>][other github]
+<br></br>
 ----
 ### Languages and Tools <img width="3%" src="https://cdn-icons-png.flaticon.com/512/7206/7206289.png"/>:
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripleboba&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="tripleboba" />

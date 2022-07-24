@@ -4,7 +4,7 @@
 <div>
 <img width="5%" src="./icons/pCheck.png"/>I'm a Full-Stack<s>overflow</s> Dev Grad.<br>
 <img width="5%" src="./icons/pEye.png">My current strengths are leaning towards Front-End path.<br>
-<img width="4.5%" src="./icons/pLight.png">[]...]<br>
+<img width="4.5%" src="./icons/pLight.png">[...]<br>
 
 ### You can also find me here <img width="4%" src="./icons/pSearch.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="./icons/linkedin.png"/>][linkedin]

@@ -2,7 +2,7 @@
 
 <img align="right" src="./icons/dino.gif" width="49%" />
 <div>
-<img width="5%" src="./icons/pCheck.png"/>I'm a Full-Stack<s>overflow</s> Dev Grad.<br>
+<img width="5%" src="./icons/pCheck.png"/>I'm a Full-<s>Snack</s>Stack<s>overflow</s> Dev Grad.<br>
 <img width="5%" src="./icons/pEye.png">My current strengths are leaning towards Front-End path.<br>
 <img width="4.5%" src="./icons/pLight.png">[...]<br>
 

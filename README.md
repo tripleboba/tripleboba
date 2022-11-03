@@ -2,9 +2,9 @@
 
 <img align="right" src="./icons/dino.gif" width="49%" />
 <div>
-<img width="5%" src="./icons/pCheck.png"/>I'm a Full-<s>Snack</s>Stack<s>overflow</s> Dev Grad.<br>
+<img width="5%" src="./icons/pCheck.png"/>I'm a <s>Full-<s>Snack</s>Stack<s>overflow</s></s> Full-Bug! Dev Grad.<br>
 <img width="5%" src="./icons/pEye.png">My current strengths are leaning towards Front-End path.<br>
-<img width="4.5%" src="./icons/pLight.png">But if I'm given enough time, resources, and critical directions, I can strive to deliver whatever it's required to be done.<br>
+<img width="4.5%" src="./icons/pLight.png">...<br>
 
 ### You can also find me here <img width="4%" src="./icons/pSearch.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="./icons/linkedin.png"/>][linkedin]

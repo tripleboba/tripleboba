@@ -2,9 +2,10 @@
 
 <img align="right" src="./icons/dino.gif" width="49%" />
 <div>
-<img width="5%" src="./icons/pCheck.png"/>I'm just a Full-Bug Frontend Dev.<br>
-<img width="5%" src="./icons/pEye.png">My current strengths are leaning towards Front-End path.<br>
-<img width="4.5%" src="./icons/pLight.png"> ![...][linktree] <br>
+<img width="5%" src="./icons/pCheck.png" /> I'm just a Full-Bug Frontend Dev.<br>
+<img width="5%" src="./icons/pEye.png" /> My current strengths are leaning towards Front-End path.<br>
+
+<img width="4.5%" src="./icons/pLight.png" />[...][linktree]
 
 ### You can also find me here <img width="4%" src="./icons/pSearch.png"/>:
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="./icons/linkedin.png"/>][linkedin]

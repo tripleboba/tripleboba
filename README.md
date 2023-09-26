@@ -1,8 +1,12 @@
-## Hi <img width="8%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />, you have reached <img width="5%" src="./icons/a.png" ><img width="5%" src="./icons/s.png"><img width="5%" src="./icons/h.png"><img width="5%" src="./icons/l.png"><img width="5%" src="./icons/e.png"><img width="5%" src="./icons/y.png">'s Github 
+## Hello Ü
 
 <img align="right" src="./icons/dino.gif" width="49%" />
 <div>
+<<<<<<< Updated upstream
 <img width="5%" src="./icons/pCheck.png" /> I'm just a Full-Bug Frontend Dev.<br>
+=======
+<img width="5%" src="./icons/pCheck.png" /> Junior Web Dev <br>
+>>>>>>> Stashed changes
 <img width="5%" src="./icons/pEye.png" /> My current strengths are leaning towards Front-End path.<br>
 
 <img width="4.5%" src="./icons/pLight.png" /> [...][linktree]

@@ -1,9 +1,9 @@
 ## Ah, splendid! You've found my chaos GitHub <img width="5%" src="./icons/bunny-2.png"/> <br>Tumble down the rabbit hole we go 🕳️ !
 
-<img align="right" src="./icons/this-is-fine.gif" width="50%"/>
+<img align="right" src="./icons/this-is-fine.gif" width="30%"/>
 <div>
 <img width="5%" src="./icons/pCheck.png"/> Welcome to my Mad Tea Party of Commits, a place where commits are curious and the code is curiouser! <br>
-<img width="5%" src="./icons/pEye.png"/> While I may not always find the quickest way out of a maze, I enjoy every twist and turn, attempting to transform bugs into butterflies <img width="2%" src="./icons/butterflies-2.png"/>. Occasionally, a few turns into 'buggerflies', and rejoin their buggerlife adventures <img width="10%" src="./icons/alice-tea.gif"/>.<br>
+<img width="5%" src="./icons/pEye.png"/> While I may not always find the quickest way out of a maze, I enjoy every twist and turn, attempting to transform bugs into butterflies <img width="2%" src="./icons/butterflies-2.png"/>. Occasionally, a few turns into 'buggerflies', and rejoin their buggerlife adventures <(*Ü*)><i>*this's madness*</i> . <br>
 
 <img width="4.5%" src="./icons/pLight.png"/> [...][linktree]
 

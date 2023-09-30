@@ -2,19 +2,23 @@
 
 <img align="right" src="./icons/this-is-fine.gif" width="30%"/>
 <div>
-<img width="5%" src="./icons/pCheck.png"/> Welcome to my Mad Tea Party of Commits, a place where commits are curious and the code is curiouser! <br>
+<img width="5%" src="./icons/pCheck.png"/> Welcome to my Mad Tea Party of Commits, a place where commits are curious and the code is even curiouser! <br>
 <img width="5%" src="./icons/pEye.png"/> While I may not always find the quickest way out of a maze, I enjoy every twist and turn, attempting to transform bugs into butterflies <img width="2%" src="./icons/butterflies-2.png"/>. Occasionally, a few turns into 'buggerflies', and rejoin their buggerlife adventures <(*Ü*)><i>*external laughter, internal chaos*</i> . <br>
 
 <img width="4.5%" src="./icons/pLight.png"/> [...][linktree]
 
 ### You can also find me here <img width="4%" src="./icons/pSearch.png"/>:
+
 [<img align="left" width="5%" alt="PhgAnh | LinkedIn" src="./icons/linkedin.png"/>][linkedin]
 [<img align="left" width="4.5%" src="./icons/resume.png"/>][resume]
 [<img align="left" width="5%" src="./icons/link.png"/>][portfolio]
 [<img align="left" width="5%" alt="PhgAnh | Github" src="./icons/github.png"/>][other github]
 <br></br>
-----
+
+---
+
 ### Languages and Tools <img width="3%" src="https://cdn-icons-png.flaticon.com/512/7206/7206289.png"/>:
+
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripleboba&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="tripleboba"/>
 <div>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="5%"/> </a>
@@ -34,7 +38,6 @@
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="5%"/> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="5%"/> </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="5%"/> </a>
-
 
 [linkedin]: https://linkedin.com/in/phganh
 [resume]: https://bit.ly/3NS3fXs

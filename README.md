@@ -6,9 +6,9 @@
 --
 
 <div align="left">
-  <img width="2.5%" src="./icons/rabbit-in-a-hat.png"/> i finally discovered what's wrong with my brain:<br>
-  <img width="2.5%" src="./icons/rabbit.png"/> on the left side there is nothing right,and on the right side there is nothing left<br>
-  <img  width="2.5%" src="./icons/hole.png"/> ...
+  <img width="2.5%" src="./icons/rabbit-in-a-hat.png"/> Aliens are coming to Earth<br>
+  <img width="2.5%" src="./icons/rabbit.png"/> Human are going to the Moon <br>
+  <img  width="2.5%" src="./icons/hole.png"/> ...I'm still pushing on a door that says pull
 </div>
 
 <br clear="left"/>

@@ -10,9 +10,7 @@
   <img width="2.5%" src="./icons/rabbit.png"/> Human are going to the Moon <br>
   <img  width="2.5%" src="./icons/hole.png"/> ...I'm still pushing on a door that says pull
 </div>
-
 <br clear="left"/><br/><br/>
-  
 <div align="left">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripleboba&hide=ruby&layout=compact&theme=transparent&hide_border=true)

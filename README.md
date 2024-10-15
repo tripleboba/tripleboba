@@ -13,4 +13,3 @@
 
 <br clear="left"/>
 
-<img src="https://github-readme-stats-theta-two-71.vercel.app/api/top-langs/?username=tripleboba" />

@@ -12,3 +12,5 @@
 </div>
 
 <br clear="left"/>
+
+[![Top Langs](https://github-readme-stats-phi-flax.vercel.app/api/top-langs/?username=tripleboba&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)

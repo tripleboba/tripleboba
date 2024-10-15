@@ -15,9 +15,9 @@
   
 <div align="left">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripleboba&hide=ruby&&layout=compact)
-  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripleboba)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripleboba&hide=ruby&layout=compact&theme=transparent&hide_border=true)
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripleboba&layout=compact&theme=transparent&hide_border=true)
+  
 </div>
 <br clear="left"/>
 

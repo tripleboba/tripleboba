@@ -14,4 +14,4 @@
 <br clear="left"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripleboba&hide=ruby&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripleboba)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripleboba)](https://github.com/anuraghazra/github-readme-stats)

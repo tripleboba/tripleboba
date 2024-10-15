@@ -11,7 +11,15 @@
   <img  width="2.5%" src="./icons/hole.png"/> ...I'm still pushing on a door that says pull
 </div>
 
+<br clear="left"/><br/><br/>
+  
+<div align="left">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripleboba&hide=ruby&&layout=compact)
+  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripleboba)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <br clear="left"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripleboba&hide=ruby&layout=compact)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripleboba)](https://github.com/anuraghazra/github-readme-stats)
+
+

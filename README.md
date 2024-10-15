@@ -16,7 +16,7 @@
 <div align="left">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripleboba&hide=ruby&&layout=compact)
-
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripleboba)
 
 </div>
 <br clear="left"/>

@@ -7,7 +7,7 @@
 
 <div align="left">
   <img width="2.5%" src="./icons/rabbit-in-a-hat.png"/> Aliens are coming to Earth<br>
-  <img width="2.5%" src="./icons/rabbit.png"/> Human are going to the Moon <br>
+  <img width="2.5%" src="./icons/rabbit.png"/> Humans are going to the Moon <br>
   <img  width="2.5%" src="./icons/hole.png"/> ...I'm still pushing on a door that says pull
 </div>
 <br clear="left"/><br/><br/>
